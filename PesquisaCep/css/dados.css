@@ -1,0 +1,8 @@
+body{
+    background-color: aliceblue;
+}
+.container-lg{
+    background-color: white;
+    border-radius: 12px;
+    padding: 20px;
+}
